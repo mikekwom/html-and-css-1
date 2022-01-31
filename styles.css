@@ -1,0 +1,69 @@
+/**************************
+            COLORS
+White - #FEFEFF
+Columbia Blue - #D6EFFF
+Deep Champagne - #FED186
+Light Deep Champagne - #FED99B
+Tomato - #FE654F
+***************************/
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fed99b;
+}
+
+p {
+    font-style: oblique;
+    margin: 0;
+}
+
+table {
+    width: 50%;
+    border: black 3px solid;
+    /* background-color: #fefeff; */
+}
+
+/* #table-head {
+    background-color: white;
+} */
+
+td {
+    border: black 2px solid;
+    background-color: #fefeff;
+    text-align: center;
+
+}
+
+/* th:first-child() {
+    background-color: #fefeff;
+} */
+
+div, iframe{
+    width: 560px;
+    height: 315px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 12px;
+ }
+iframe {
+    display: block;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+a {
+    background-color: #fefeff;
+}
+
+h1 {
+    text-align: center;
+    width: auto;
+    font-size: 80px;
+    margin: 0;
+    border: black 3px solid;
+    background-color: #FE654F;
+    color: #FED186;
+}
